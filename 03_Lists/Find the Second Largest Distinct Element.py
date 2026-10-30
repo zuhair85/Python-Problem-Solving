@@ -6,6 +6,10 @@
 #
 # 45
 
+# Time and space complexity
+# - Time: O(n) — You visit each element once.
+# - Space: O(1) — You only use two variables, regardless of list size.
+
 def find_second_largest(nums):
     largest = nums[0]
     second_largest = None
