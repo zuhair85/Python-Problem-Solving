@@ -45,3 +45,23 @@ I continuously update this repository as I solve new problems.
 Problems are organized into folders based on their topics.
 Each problem has its own Python file containing the
 problem description, solution, and test cases.
+
+## Problem Categories
+
+| Folder | Topic |
+|---|---|
+| 01_basics | Python Basics |
+| 02_strings | Strings |
+| 03_lists | Lists |
+| 04_tuples | Tuples |
+| 05_sets | Sets |
+| 06_dictionaries | Dictionaries |
+| 07_functions | Functions |
+| 08_recursion | Recursion |
+| 09_oop | Object-Oriented Programming |
+| 10_algorithms | Algorithms |
+| 11_data_structures | Data Structures |
+| 12_file_handling | File Handling |
+| 13_modules_and_packages | Modules and Packages |
+| 14_exceptions | Exception Handling |
+| 15_advanced_python | Advanced Python |
